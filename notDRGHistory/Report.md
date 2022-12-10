@@ -1,25 +1,23 @@
-### Здравствуйте, Никита Дмитривеич! ###
-
-
 Экскурс по файлам проекта:
 - [Правила](https://github.com/paVlaDog/history/blob/master/notDRGHistory/Rules.md)
 - [Реализация баланса игры](https://github.com/paVlaDog/history/blob/master/notDRGHistory/Balans.md)
 - Карты с их описанием: [Коммунизм](https://github.com/paVlaDog/history/blob/master/notDRGHistory/K.md), [Либерализм](https://github.com/paVlaDog/history/blob/master/notDRGHistory/L.md), [Фашизм](https://github.com/paVlaDog/history/blob/master/notDRGHistory/F.md)
+- [Дизайн игровых карт](https://github.com/paVlaDog/history/blob/master/notDRGHistory/cards)
+- [Дизайн карт тайной роли](https://github.com/paVlaDog/history/blob/master/notDRGHistory/rolesCards)
 - Небольшая историческая справка по каждой карте: [Коммунизм](https://github.com/paVlaDog/history/blob/master/notDRGHistory/Knotes.md), [Либерализм](https://github.com/paVlaDog/history/blob/master/notDRGHistory/Lnotes.md), [Фашизм](https://github.com/paVlaDog/history/blob/master/notDRGHistory/Fnotes.md)
 
 
 Что мы уже сделали:
-
 - Проработаны основные концепции игровых механик, проработан сеттинг и идеи исторической направленности проекта.
 - Созданы игровые карточки персонажей, которые будут разыгрываться по ходу игры, подобраны подходящие исторические личности и события.
 - Карточки персонажей разных фракций были сбалансированы.
 - Созданы карты ролей, отражающие тайные цели каждого игрока.
 - Для всех карточек персонажей были созданы исторические справки, отражающие роль данных персонажей в истории и объясняющие их свойства.
+- Разработан уникальный дизайн игровых карт и карт ролей.
+- Сделаны макеты всех игровых карты и карт ролей в .jpg формате.
 
 Что ещё нужно сделать:
-
-- Доработать карты ролей, сбалансировать их.
-- Сделать дизайн карт
+- Создать рубашку для карт
 - Выбрать формат создания физической версии игры, заказать печать в типографии (Опционально).
 
 <!-- От нас:
